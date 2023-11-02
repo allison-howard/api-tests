@@ -1,8 +1,19 @@
 {
-    "name": "api-tests",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "author": "",
-    "license": "ISC"
-  }
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allison-howard/api-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allison-howard/api-tests/issues"
+  },
+  "homepage": "https://github.com/allison-howard/api-tests#readme"
+}
